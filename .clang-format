@@ -1,0 +1,10 @@
+---
+BasedOnStyle: Google
+IndentWidth: 4
+---
+Language: Cpp
+
+ColumnLimit: 100
+SeparateDefinitionBlocks: Always # Only support since clang-format 14
+IndentWidth: 4
+IndentAccessModifiers: true
